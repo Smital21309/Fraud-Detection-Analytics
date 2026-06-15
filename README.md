@@ -1,7 +1,7 @@
 Intern Credentials
+
 Inter ID : CITS2728, Name : Smital Santosh Kambli, Domain: Data Analytics.
-Project Name:
-Realtime_frauad_Detection_Engine.
+Project Name: Realtime_frauad_Detection_Engine.
 
 Description : An enterprise-grade financial security pipeline that flogs fraudulent credit card transactions instantly.
 
